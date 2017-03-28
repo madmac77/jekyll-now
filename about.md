@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: I am a data science student at GA
 permalink: /about/
 ---
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[cmac77@mac.com](mailto:cmac77@mac.com)
